@@ -16,7 +16,7 @@ Passionate software engineer with two and a half years of experience specializin
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,bootstrap,anaconda)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
