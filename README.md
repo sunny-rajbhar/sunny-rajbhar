@@ -32,8 +32,8 @@ Passionate software engineer with two and a half years of experience specializin
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/sunnyrajbhar3)
-- Read more of my articles on [sunnyrajbhar.dev](https://in.linkedin.com/)
+- Follow me on [Twitter](https://twitter.com/sunnyrajbhar3)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/sunny-rajbhar)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
