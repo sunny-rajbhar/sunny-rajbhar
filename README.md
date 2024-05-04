@@ -2,7 +2,7 @@
 
 Passionate software engineer with two and a half years of experience specializing in PostgreSQL, Power BI, and Python. Dedicated to crafting elegant solutions and harnessing the power of technology to solve real-world problems. Enthusiastic about continuous learning and contributing to open-source projects. My journey involves delving into the world of IT, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<sunny-rajbhar>'s Stats](https://github-readme-stats.vercel.app/api?username=<sunny-rajbhar>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -39,9 +39,9 @@ Passionate software engineer with two and a half years of experience specializin
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+<!--
 ### Hi there 👋
 
-<!--
 **sunny-rajbhar/sunny-rajbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
